@@ -1,0 +1,29 @@
+nav ul{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+nav ul li{
+	padding: 12px;
+	list-style: none;
+}
+
+section .parent {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+section{
+	background-color: #cfe2ff;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+nav {
+	background-color: #cfe2ff;
+}
+
